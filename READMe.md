@@ -1,1 +1,1 @@
-Fooder
+Fooder, a food finding app
